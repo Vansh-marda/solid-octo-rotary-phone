@@ -6,4 +6,6 @@ int main(){
         sum =sum +1;
     }
     cout<<sum;
+    cout<<" done with for loops";
+    cout<<"so whats up !";
 }
